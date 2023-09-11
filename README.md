@@ -30,7 +30,4 @@ This project is a Classic Tetris game implemented using Functional Reactive Prog
 
 To play the game, simply open the HTML file in your browser. Use the arrow keys to move and rotate blocks, and press the "R" key to restart the game when it's over.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
