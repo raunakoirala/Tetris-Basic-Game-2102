@@ -29,8 +29,8 @@ This project is a Classic Tetris game implemented using Functional Reactive Prog
 ## Usage
 
 
-1. Extract <studentNo>_<name>.zip
-2. Navigate into the folder named <studentNo>_<name>
+1. Extract zip
+2. Navigate into the folder
 3. Execute npm install
 4. Execute npm run dev
 5. Open http://localhost:5173 in a browser
